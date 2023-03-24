@@ -1,3 +1,4 @@
+![logo](https://github.com/naveennadigoti06/naveennadigoti06/blob/main/AI%20pic.jpg)
 <h1 align="center">Hi 👋, I'm Naveen Nadigoti</h1>
 <h3 align="center">A Passionate Data Lover and also a Learner</h3>
 
