@@ -1,4 +1,4 @@
-![logo]([https://github.com/naveennadigoti06/Nadigoti-Naveen-Kumar/blob/main/LinkedIn%20Banner.png](https://github.com/naveennadigoti06/naveennadigoti06/blob/main/GitHub%20Banner.png))
+![logo](https://github.com/naveennadigoti06/naveennadigoti06/blob/main/GitHub%20Banner.png)
 <h1 align="center">Hi 👋, I'm Nadigoti Naveen Kumar</h1>
 <h3 align="center">A Passionate Data Scientist</h3>
 
