@@ -1,3 +1,9 @@
+![logo](https://github.com/naveennadigoti06/Nadigoti-Naveen-Kumar/blob/main/LinkedIn%20Banner.png)
+<h1 align="center">Hi 👋, I'm Nadigoti Naveen Kumar</h1>
+<h3 align="center">A Passionate Data Scientist</h3>
+
+<img align="right" alt="coding" width="400" src="https://rajacepat.com/assets/frontend/img/webdev.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadigoti-naveen-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="nadigoti-naveen-kumar" /> </p>
 
 - 🌱 I’m currently Learning **advanced machine learning and AI techniques**
