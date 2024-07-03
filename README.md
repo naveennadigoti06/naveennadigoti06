@@ -10,19 +10,7 @@
 🚀 Data Scientist | AI Innovator | Business Transformer 🚀
 <br>
 <br>
-👋 Hi, I'm Naveen, a B.Com graduate turned AI enthusiast, transforming data into actionable insights.
-<br>
-<br>
-💼 With nearly 1 year as a Data Scientist at Artificial Penetration Software Solutions, I've led a team of 10, spearheading AI-driven solutions that boosted operational efficiency by 40% and profitability by 30%.
-<br>
-<br>
-💡 Proficient in Python, SQL, Power BI, Azure, and advanced analytics techniques, including Deep Learning and NLP.
-<br>
-<br>
-🏆 Notable achievements: enhancing business growth by 25%, leading cross-functional teams, conducting AI workshops, and contributing to open-source projects.
-<br>
-<br>
-🔑 Let's connect to explore the feature of AI
+I'm Naveen, a Bachelor of Commerce graduate with a fervent passion for Artificial Intelligence and nearly a year of dynamic experience as a Data Scientist at Artificial Penetration Software Solutions Pvt Ltd. I lead a team of 10, driving groundbreaking AI solutions that have revolutionized operational efficiency by 40% and boosted profitability by 30%. Proficient in Python, SQL, Power BI, and Azure, I excel in harnessing advanced analytics techniques like Deep Learning and NLP to unlock transformative insights. My accomplishments include accelerating business growth by 25%, spearheading impactful AI workshops, and actively contributing to open-source projects. I’m eager to connect and explore how we can leverage data to achieve exceptional outcomes.
 
 
 <h3 align="left">Connect with me:</h3>
@@ -54,7 +42,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveennadigoti06&show_icons=true&locale=en" alt="naveennadigoti06" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveennadigoti06&" alt="naveennadigoti06" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveennadigoti06&show_icons=true&locale=en&layout=compact" alt="naveennadigoti06" /></p>
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
