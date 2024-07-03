@@ -20,7 +20,7 @@ I'm Naveen, a Bachelor of Commerce graduate with a fervent passion for Artificia
 <a href="https://fb.com/naveen nadigoti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naveen nadigoti" height="30" width="40" /></a>
 <a href="https://instagram.com/naveen nadigoti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naveen nadigoti" height="30" width="40" /></a>
 </p>
-
+  
 # <h3 align="left">Languages and Tools:</h3>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -43,7 +43,8 @@ I'm Naveen, a Bachelor of Commerce graduate with a fervent passion for Artificia
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveennadigoti06&show_icons=true&locale=en" alt="naveennadigoti06" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveennadigoti06&" alt="naveennadigoti06" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveennadigoti06&show_icons=true&locale=en&layout=compact" alt="naveennadigoti06" /></p>
 
