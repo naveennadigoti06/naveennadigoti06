@@ -17,7 +17,7 @@ I'm Naveen, a Bachelor of Commerce graduate with a fervent passion for Artificia
 <hr/>
 
 <h2 align="left">Languages and Tools:</h2>
-    <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,mongodb,flask,pytorch,tensorflow,visualstudio,opencv,github,scikitlearn,anaconda" /><br>
+    <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,mongodb,flask,pytorch,tensorflow,visualstudio,opencv,github,scikitlearn,anaconda,vscode" /><br>
 </div>
 <hr/>
 <h2 align="left">Connect with me:</h2>
