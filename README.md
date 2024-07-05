@@ -9,13 +9,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadigoti-naveen-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="nadigoti-naveen-kumar" /> </p>
 
-<h3>About Me</h3>
+<h2>About Me</h2>
 🚀 Data Scientist | AI Innovator | Business Transformer 🚀
 <br>
 <br>
 I'm Naveen, a Bachelor of Commerce graduate with a fervent passion for Artificial Intelligence and nearly a year of dynamic experience as a Data Scientist at Artificial Penetration Software Solutions Pvt Ltd. I lead a team of 10, driving groundbreaking AI solutions that have revolutionized operational efficiency by 40% and boosted profitability by 30%. Proficient in Python, SQL, Power BI, and Azure, I excel in harnessing advanced analytics techniques like Deep Learning and NLP to unlock transformative insights. My accomplishments include accelerating business growth by 25%, spearheading impactful AI workshops, and actively contributing to open-source projects. I’m eager to connect and explore how we can leverage data to achieve exceptional outcomes.
-  
-# <h3 align="left">Languages and Tools:</h3>
+<hr/>
+
+<h2 align="left">Languages and Tools:</h2>
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -36,12 +38,14 @@ I'm Naveen, a Bachelor of Commerce graduate with a fervent passion for Artificia
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
+<hr/>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 </p>
 
 </div>
- 
+
+
 <div align="left"> 
   <a href="mailto:naveennadigoti6@.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -50,12 +54,16 @@ I'm Naveen, a Bachelor of Commerce graduate with a fervent passion for Artificia
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.quora.com/profile/Naveen-Nadigoti">
-     <img src="https://img.shields.io/badge/Quora-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+    <img src="https://img.shields.io/badge/Quora-FF5722?style=for-the-badge&logo=quora&logoColor=white" target="_blank" />
   </a>
 </div>
 
+
+
 <br>
 <br>
+<hr/>
+<h2 align="left">⚡ Stats ⚡:</h2>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveennadigoti06&show_icons=true&locale=en" alt="naveennadigoti06" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveennadigoti06&" alt="naveennadigoti06" /></p>
