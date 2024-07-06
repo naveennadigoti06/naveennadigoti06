@@ -57,7 +57,7 @@ I'm Naveen, a Bachelor of Commerce graduate with a fervent passion for Artificia
 <div align=center>
 
 ![](https://github-profile-trophy.vercel.app/?username=naveennadigoti06&theme=onedark)
-
+<hr/>
 <h3 align=center>🐍 My Contributions 🐍</h3>
 <div align=center>
 
