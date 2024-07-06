@@ -60,6 +60,6 @@ I'm Naveen, a Bachelor of Commerce graduate with a fervent passion for Artificia
 
 <h3 align=center>🐍 My Contributions 🐍</h3>
 <div align=center>
-    
+
 ![Snake animation](https://github.com/naveennadigoti06/naveennadigoti06/blob/main/github-contribution-grid-snake.svg)
 </div>
