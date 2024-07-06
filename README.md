@@ -16,18 +16,20 @@
 I'm Naveen, a Bachelor of Commerce graduate with a fervent passion for Artificial Intelligence and nearly a year of dynamic experience as a Data Scientist at Artificial Penetration Software Solutions Pvt Ltd. I lead a team of 10, driving groundbreaking AI solutions that have revolutionized operational efficiency by 40% and boosted profitability by 30%. Proficient in Python, SQL, Power BI, and Azure, I excel in harnessing advanced analytics techniques like Deep Learning and NLP to unlock transformative insights. My accomplishments include accelerating business growth by 25%, spearheading impactful AI workshops, and actively contributing to open-source projects. I’m eager to connect and explore how we can leverage data to achieve exceptional outcomes.
 <hr/>
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="center">Languages and Tools:</h2>
+    <div align=center>
     <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,mongodb,flask,pytorch,tensorflow,visualstudio,opencv,github,scikitlearn,anaconda,vscode" /><br>
 </div>
 <hr/>
-<h2 align="left">Connect with me:</h2>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 </p>
 
 </div>
 
 
-<div align="left"> 
+<div align="center"> 
+    <div align=center>
   <a href="mailto:naveennadigoti6@.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -44,8 +46,18 @@ I'm Naveen, a Bachelor of Commerce graduate with a fervent passion for Artificia
 <br>
 <br>
 <hr/>
-<h2 align="left">⚡ Stats ⚡:</h2>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveennadigoti06&show_icons=true&locale=en" alt="naveennadigoti06" /></p>
+<h3 align="center">⚡ Stats ⚡:</h3>
+<div align=center>
+<p>&nbsp;<img width=390 src="https://github-readme-stats.vercel.app/api?username=naveennadigoti06&show_icons=true&locale=en" alt="naveennadigoti06" /></p>
+<p><img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=naveennadigoti06&" alt="naveennadigoti06" /></p>
+<p><img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveennadigoti06&show_icons=true&locale=en&layout=compact" alt="naveennadigoti06" /></p>
+</div>
+<hr/>
+<h3 align="center">Trophie Stats</h3>
+<div align=center>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveennadigoti06&" alt="naveennadigoti06" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveennadigoti06&show_icons=true&locale=en&layout=compact" alt="naveennadigoti06" /></p>
+![](https://github-profile-trophy.vercel.app/?username=naveennadigoti06&theme=onedark)
+
+<h3 align=center>🐍 My Contributions 🐍</h3>
+
+![Snake animation](https://github.com/naveennadigoti06/naveennadigoti06/blob/main/assets/github-contribution-grid-snake.svg)
