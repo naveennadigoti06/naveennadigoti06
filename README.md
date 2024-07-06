@@ -48,12 +48,13 @@ I'm Naveen, a Bachelor of Commerce graduate with a fervent passion for Artificia
 <hr/>
 <h3 align="center">⚡ Stats ⚡:</h3>
 <div align=center>
-<p>&nbsp;<img width=390 src="https://github-readme-stats.vercel.app/api?username=naveennadigoti06&show_icons=true&locale=en" alt="naveennadigoti06" /></p>
-<p><img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=naveennadigoti06&" alt="naveennadigoti06" /></p>
-<p><img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveennadigoti06&show_icons=true&locale=en&layout=compact" alt="naveennadigoti06" /></p>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=naveennadigoti06&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=naveennadigoti06&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=naveennadigoti06&hide=HTML,Python,C++,JavaScript,TypeScript,Ruby&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 <hr/>
-<h3 align="center">Trophie Stats</h3>
+<h3 align="center">🏆 Trophie Stats 🏆</h3>
 <div align=center>
 
 ![](https://github-profile-trophy.vercel.app/?username=naveennadigoti06&theme=onedark)
