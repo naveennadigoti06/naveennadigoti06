@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadigoti-naveen-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="nadigoti-naveen-kumar" /> </p>
 
-<h2>About Me</h2>
+<h2 align="left">About Me</h2>
 🚀 Data Scientist | AI Innovator | Business Transformer 🚀
 <br>
 <br>
