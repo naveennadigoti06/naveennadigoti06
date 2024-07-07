@@ -11,7 +11,9 @@
 🚀 Data Scientist | AI Innovator | Business Transformer 🚀
 <br>
 <br>
+<div align="left">
 I'm Naveen, a Bachelor of Commerce graduate with a fervent passion for Artificial Intelligence and nearly a year of dynamic experience as a Data Scientist at Artificial Penetration Software Solutions Pvt Ltd. I lead a team of 10, driving groundbreaking AI solutions that have revolutionized operational efficiency by 40% and boosted profitability by 30%. Proficient in Python, SQL, Power BI, and Azure, I excel in harnessing advanced analytics techniques like Deep Learning and NLP to unlock transformative insights. My accomplishments include accelerating business growth by 25%, spearheading impactful AI workshops, and actively contributing to open-source projects. I’m eager to connect and explore how we can leverage data to achieve exceptional outcomes.
+</div>
 <hr/>
 
 <h2 align="center">Languages and Tools:</h2>
