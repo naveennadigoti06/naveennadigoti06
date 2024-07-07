@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center"> Data Scientist | AI and Machine Learning Specialist | Passionate about AI-driven solutions and open-source contributions </h3>
-<img align="right" alt="coding" width="400" src="https://rajacepat.com/assets/frontend/img/webdev.gif">
+<img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadigoti-naveen-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="nadigoti-naveen-kumar" /> </p>
 
 <h2 align="left">About Me</h2>
