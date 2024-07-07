@@ -4,9 +4,7 @@
 </h1>
 
 <h3 align="center"> Data Scientist | AI and Machine Learning Specialist | Passionate about AI-driven solutions and open-source contributions </h3>
-
 <img align="right" alt="coding" width="400" src="https://rajacepat.com/assets/frontend/img/webdev.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadigoti-naveen-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="nadigoti-naveen-kumar" /> </p>
 
 <h2 align="left">About Me</h2>
@@ -21,13 +19,10 @@ I'm Naveen, a Bachelor of Commerce graduate with a fervent passion for Artificia
     <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,mongodb,flask,pytorch,tensorflow,visualstudio,opencv,github,scikitlearn,anaconda,vscode" /><br>
 </div>
 <hr/>
-<h3 align="center">Connect with me:</h3>
+<h2 align="center">Connect with me:</h2>
 <p align="center">
 </p>
-
 </div>
-
-
 <div align="center"> 
     <div align=center>
   <a href="mailto:naveennadigoti6@.com">
@@ -41,12 +36,8 @@ I'm Naveen, a Bachelor of Commerce graduate with a fervent passion for Artificia
   </a>
 </div>
 
-
-
-<br>
-<br>
 <hr/>
-<h3 align="center">⚡ Stats ⚡:</h3>
+<h2 align="center">⚡ Stats ⚡:</h2>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=naveennadigoti06&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=naveennadigoti06&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
@@ -54,12 +45,12 @@ I'm Naveen, a Bachelor of Commerce graduate with a fervent passion for Artificia
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=naveennadigoti06&hide=HTML,Python,C++,JavaScript,TypeScript,Ruby&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 <hr/>
-<h3 align="center">🏆 Trophie Stats 🏆</h3>
+<h2 align="center">🏆 Trophie Stats 🏆</h2>
 <div align=center>
 
 ![](https://github-profile-trophy.vercel.app/?username=naveennadigoti06&theme=onedark)
 <hr/>
-<h3 align=center>🐍 My Contributions 🐍</h3>
+<h2 align=center>🐍 My Contributions 🐍</h2>
 <div align=center>
 
 ![Snake animation](https://github.com/naveennadigoti06/naveennadigoti06/blob/main/github-contribution-grid-snake.svg)
