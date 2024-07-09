@@ -57,7 +57,3 @@ I'm Naveen, a Bachelor of Commerce graduate with a fervent passion for Artificia
 
 ![Snake animation](https://github.com/naveennadigoti06/naveennadigoti06/blob/main/github-contribution-grid-snake.svg)
 </div>
-
-# Welcome to My GitHub Profile
-
-Thank you for visiting! Please [click here](https://github.com/naveennadigoti06/welcome-email/issues/new) to receive a welcome email and stay updated with my latest projects.
